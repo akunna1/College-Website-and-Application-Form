@@ -7,17 +7,16 @@
 }
 
 /* Style for the table of contents */
-    .toc {
-        color: black;
-        background-color: floralwhite;
-        border: 2px dashed grey;
-        border-radius: 15px;
-        text-align: left;
-        margin: 10px;
-        font: inherit;
-        float: left; /* Float the table of contents to the left */
-    }
-
+.toc {
+    color: black;
+    background-color: floralwhite;
+    border: 2px dashed grey;
+    border-radius: 15px;
+    text-align: left;
+    margin: 10px;
+    font: inherit;
+    float: left; /* Float the table of contents to the left */
+}
 /* Style for the Navigate title */
     .toc h2 {
         margin: 10px;
@@ -66,10 +65,10 @@
 
     
     /* Style for Image 3 */
-        #img3 {
-            margin-left: 100px;
-            margin-right: 165px;
-        }
+    #img3 {
+        margin-left: 100px;
+        margin-right: 165px;
+    }
 
         .btn {
             color: black;
