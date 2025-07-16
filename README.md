@@ -1,40 +1,52 @@
-My First Front-End Development Project 🎉
+# 🎓 College-Website-and-Application-Form
 
-This project is my very first front-end development work, created using vanilla HTML, CSS, and JavaScript. It features the website and application form for **The University of Blackmourne Hollows at Shadowbrook**. 🏫
-
----
-
-Project Overview
-
-* A clean, responsive website built without frameworks 🌐
-* Includes an interactive application form 📝
-* Demonstrates foundational front-end skills in HTML, CSS, and JS 💻
+My very first front-end development project built with **vanilla HTML, CSS, and JavaScript**.
+It features the website and application form for **The University of Blackmourne Hollows at Shadowbrook**. 🏫
 
 ---
 
-Technologies Used
+## 🚀 Project Overview
 
-* HTML 📄
-* CSS 🎨
-* JavaScript ⚙️
-
----
-
-Features
-
-* Responsive layout for desktop and mobile 
-* Form validation using JavaScript ✔️
-* Simple and elegant design
+* Clean and responsive website without any frameworks
+* Interactive application form with JavaScript validation
+* Demonstrates foundational front-end development skills
 
 ---
 
-Folder Structure
+## 🛠 Technologies Used
 
-* index.html
-* css/style.css
-* js/script.js
-* assets/ (images and other media) 📂
+* **HTML** 📄
+* **CSS** 🎨
+* **JavaScript** ⚙️
 
 ---
 
-This project helped me learn the basics of front-end web development and build confidence in creating interactive web pages.
+## ✨ Features
+
+* Responsive design that works on desktop and mobile devices 📱💻
+* Form validation for improved user experience ✔️
+* Simple, elegant, and easy-to-navigate interface 🎨
+
+---
+
+## 📁 Folder Structure
+
+```
+├── index.html  
+├── css/
+│   └── style.css  
+├── js/
+│   └── script.js  
+└── assets/   (images and other media) 📂
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me:
+
+* Understand the basics of front-end web development
+* Practice responsive design and layout techniques
+* Implement interactive form validation with JavaScript
+* Build confidence in creating functional and user-friendly web pages
